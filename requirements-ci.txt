@@ -17,3 +17,4 @@ pytest-json
 requests
 wheel
 twine
+os
